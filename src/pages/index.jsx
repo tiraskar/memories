@@ -1,0 +1,5 @@
+export { default as SharedLayout } from './SharedLayout'
+export { default as Dashboard } from './Dashboard'
+export { default as Post } from './Post'
+export { default as Registration } from './Registration'
+export { default as Login } from './Login'
